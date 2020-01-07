@@ -313,6 +313,10 @@ form a large long-term "endowment" pool that cushions the volatility for the
 various grantees, so grantees can focus on their work instead of hedging
 short-term price risks.
 
+Fair market value of ZEC received from the Zev Fund SHALL be computed by
+each party according to market price on the date of receipt, by a reasonable
+and consistently-applied method explained in that party's financial reports.
+
 Irrevocable obligations to the above MUST be made by the recipients (e.g.,
 using their Operating Agreements or by receiving the slice as Restricted
 Funds).
@@ -330,7 +334,7 @@ SHALL all accept the following obligations:
 Ongoing public reporting requirements:
 
 * Quarterly reports, detailing future plans, execution on previous plans, and
-  finances (balances, and spending broken down by major categories).
+  finances (income, balances, reserve, and spending broken down by major categories).
 * Monthly developer calls, or a brief report, on recent and forthcoming tasks.
   (Developer calls may be shared.)
 * Annual detailed review of the organization performance and future plans.
